@@ -1,0 +1,758 @@
+http://gtcni.openrepository.com,GB,3,549,,HTTP Error 403: Forbidden
+http://eprints.aktors.org,GB,4,1,31,HTTP Error 403: Forbidden
+http://rose.bris.ac.uk,GB,11,,176,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sherpa.bl.uk,GB,13,,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.bucks.ac.uk,GB,15,1382,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://library.coastweb.info,GB,20,,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://calcium.dcs.kcl.ac.uk,GB,26,1709,,<urlopen error timed out>
+http://dspace.trinity-cm.ac.uk,GB,30,1604,,<urlopen error timed out>
+http://eprints.erpanet.org,gb,40,,497,<urlopen error timed out>
+http://eprints.libr.port.ac.uk,GB,43,,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.csc.warwick.ac.uk,gb,44,,1442,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace1.isd.glam.ac.uk,GB,46,1021,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://dspace.gla.ac.uk,gb,47,,581,<urlopen error timed out>
+http://a-plus.auhw.ac.jp,jp,1065,,2868,<urlopen error timed out>
+http://architexturez.net,IN,1067,2911,,HTTP Error 403: Forbidden
+http://dlibrary.univ-boumerdes.dz,dz,1072,,7079,<urlopen error timed out>
+http://dspace-unito.cilea.it,IT,1085,970,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://poar.twu.edu,us,1889,,7841,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oai.prodinra.inra.fr,fr,1900,,6888,HTTP Error 404: Not Found
+http://esh.diva-portal.org,SE,1911,2203,,timed out
+http://hhs.diva-portal.org,SE,1912,2204,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://kmh.diva-portal.org,SE,1918,2205,,timed out
+http://epub.boku.ac.at,at,1927,,11862,HTTP Error 403: Forbidden
+http://publiscologne.fh-koeln.de,DE,1928,3241,,HTTP Error 403: Forbidden
+http://rspace.krei.re.kr,kr,1932,,5327,<urlopen error timed out>
+http://repositorio.orval.edu.pe,PE,2546,3849,,HTTP Error 503: Service Unavailable
+https://dspace.aab-edu.net,rs,2550,,12298,HTTP Error 403: Forbidden
+https://laur.lau.edu.lb,lb,2566,,12288,<urlopen error [Errno 61] Connection refused>
+http://repository.mut.ac.ke,KE,2570,3859,,<urlopen error [Errno 61] Connection refused>
+http://ea.donntu.edu.ua,ua,2592,,3701,<urlopen error [Errno 61] Connection refused>
+https://laur.lau.edu.lb,LB,2600,3867,,<urlopen error [Errno 61] Connection refused>
+,NL,2610,,,unknown url type: ''
+,DE,2612,,,unknown url type: ''
+,CH,2614,,,unknown url type: ''
+https://dspace.emu.ee,,2632,3875,,<urlopen error _ssl.c:1029: The handshake operation timed out>
+http://repository.kmou.ac.kr,,2639,3265,,timed out
+http://repository.tml.nul.ls,ls,3671,,9878,<urlopen error [Errno 51] Network is unreachable>
+http://dspace.funai.edu.ng,ng,3676,,9947,<urlopen error timed out>
+http://eprints.neeri.res.in,in,3678,,9983,<urlopen error timed out>
+http://er.ucu.edu.ua,ua,3680,,10013,HTTP Error 403: Forbidden
+http://opac.say.ac.id,id,3693,,10210,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://open.jorum.ac.uk,gb,56,,2360,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://learnx.iriss.org.uk,GB,61,1240,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://mlpa.nottingham.ac.uk,gb,73,,935,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://pubs.or08.ecs.soton.ac.uk,GB,85,1219,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.pharmacy.ac.uk,GB,90,759,,<urlopen error timed out>
+http://www.refer.nhs.uk,gb,94,,1104,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.sportdocs.insep.fr,fr,1008,,4887,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Déplacé Temporairement"
+http://idl-bnc.idrc.ca,CA,1015,1112,,<urlopen error timed out>
+http://dspace.kntu.kr.ua,ua,1031,,10898,HTTP Error 503: Service Unavailable
+http://oai.ukdataservice.ac.uk,GB,1055,3708,,<urlopen error [Errno 54] Connection reset by peer>
+http://www.aacademica.com,AR,1059,3274,,HTTP Error 403: Forbidden
+http://teora.hit.no,no,2223,,1269,<urlopen error timed out>
+http://anchan.lib.ku.ac.th,th,2224,,3127,<urlopen error timed out>
+http://e-prints.bue.edu.eg,EG,2231,1471,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://pure.itu.dk,DK,2232,2988,,HTTP Error 404: Not Found
+http://dspace.lib.ntnu.edu.tw,TW,2233,3358,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repository.si.re.kr,kr,2237,,7626,<urlopen error timed out>
+http://repository.ubm.ac.id,ID,2238,2924,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ent13.univ-valenciennes.fr,FR,2240,2920,,<urlopen error timed out>
+http://rep.toho-u.ac.jp,jp,2241,,6228,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.repository.lib.tmu.ac.jp,JP,2244,2086,,<urlopen error timed out>
+http://server16313.contentdm.oclc.org,US,2252,2812,,HTTP Error 401: Unauthorized
+http://encore.tut.ac.za,za,2254,,8716,<urlopen error timed out>
+http://libucd.ucd.ie,IE,2258,3088,,<urlopen error timed out>
+http://edoc.bibliothek.uni-halle.de,DE,2262,845,,<urlopen error timed out>
+http://repository.uc.ac.kr,KR,2263,3268,,timed out
+http://unipub.uni-graz.at,at,2268,,8402,HTTP Error 403: Forbidden
+http://digitalcommons.carli.illinois.edu,us,3587,,8377,HTTP Error 403: Forbidden
+http://research.create.usc.edu,us,3608,,8447,HTTP Error 403: Forbidden
+https://repository.royalholloway.ac.uk,GB,98,279,,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found"
+http://www.tlrp.org,gb,112,,1259,<urlopen error timed out>
+http://tprints.ecs.soton.ac.uk,GB,113,564,1264,<urlopen error [Errno 61] Connection refused>
+http://oai.cisti-icist.nrc-cnrc.gc.ca,CA,962,1674,,HTTP Error 404: Not Found
+https://digitaldu.coalliance.org,US,966,2628,,<urlopen error [Errno 61] Connection refused>
+http://revistas.ucm.es,ES,971,1403,,timed out
+http://dea.lib.unideb.hu,HU,980,1690,,The read operation timed out
+http://www.doria.fi,FI,987,1189,,timed out
+http://www.unla.edu.ar,AR,2029,2774,,timed out
+http://rc.upr.edu.cu,cu,2041,,10749,HTTP Error 400: Bad Request
+http://www.repositorio.ieo.es,ES,2060,,4707,HTTP Error 404: No Encontrado
+http://bibliotecavirtual.ingemmet.gob.pe,pe,2062,,9892,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bdigital.uao.edu.co,CO,2077,2479,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.ime.usp.br,br,2997,,685,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://srb2.bib.iteso.mx,mx,3000,,695,<urlopen error timed out>
+http://ict.udlap.mx,mx,3001,,697,HTTP Error 500: Internal Server Error
+http://ir.lib.nthu.edu.tw,tw,3006,,710,<urlopen error timed out>
+http://joypub.joensuu.fi,fi,3009,,734,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ston.jsc.nasa.gov,us,3010,,737,<urlopen error [Errno 61] Connection refused>
+http://www.jcal.emory.edu,us,3012,,739,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://journal.qafqaz.edu.az,az,3013,,740,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oai.library.jhu.edu,us,3015,,743,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://juwel.fz-juelich.de,de,3016,,744,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.ksame.kharkov.ua,ua,3021,,764,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.kiep.go.kr,kr,3022,,771,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://techreports.larc.nasa.gov,us,3026,,788,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ladark.lib.utsa.edu,us,3027,,791,<urlopen error timed out>
+http://gate-test.library.lse.ac.uk,gb,3034,,811,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://imlsdcc.grainger.uiuc.edu,us,3036,,817,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.hnpu.edu.ua,ua,3809,,12627,HTTP Error 503: Service Unavailable
+http://rpsico.mdp.edu.ar,ar,3818,,12712,<urlopen error timed out>
+http://bom.org.br,br,3840,,12931,<urlopen error timed out>
+http://digilib.iain-jember.ac.id,,3842,,12964,<urlopen error timed out>
+http://digitallibrary.aun.edu.ng,,3853,3956,,<urlopen error [Errno 61] Connection refused>
+http://cur-ren.cjc.ac.jp,,3920,1497,,timed out
+http://eprints.port.ac.uk,GB,165,2267,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://curve.coventry.ac.uk,GB,169,2171,5408,"HTTP Error 303: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+See Other"
+http://repository.newport.ac.uk,GB,171,2411,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://louisdl.louislibraries.org,US,186,817,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://snuffy.lib.umn.edu,US,188,858,,<urlopen error timed out>
+http://bivipas.info,CO,1160,2202,,HTTP Error 500: Internal Server Error
+http://repositorio.eppetroecuador.ec,ec,1161,,3190,HTTP Error 403: Forbidden
+http://cdam.minam.gob.pe,PE,1173,2477,,HTTP Error 403: Forbidden
+http://bibliotecadigital.getafe.es,ES,1174,2397,,<urlopen error timed out>
+http://content.fbc.pionier.net.pl,PL,1177,2237,,timed out
+http://content.fbc.pionier.net.pl,PL,1178,2169,,timed out
+http://digitallibrary.univ-batna.dz,DZ,1181,3003,,HTTP Error 403: Forbidden
+http://theses.ulb.ac.be,BE,1184,1145,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bca.ucad.sn,SN,1187,1761,,HTTP Error 404: Not Found
+http://repository.borneo.ac.id,ID,1192,2465,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.bg-openaire.eu,BG,1198,2286,,<urlopen error [Errno 61] Connection refused>
+http://193.146.101.123,ES,1199,3247,,<urlopen error [Errno 61] Connection refused>
+http://www.ceemar.org,UA,1205,1511,,timed out
+http://cea.nsf.ac.lk,LK,1206,3407,,timed out
+http://repo.gsu.by,BY,2085,3142,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://library.tue.nl,NL,2098,567,,HTTP Error 403: Forbidden
+http://eprints.unm.ac.id,ID,2100,3620,,timed out
+http://repositum.tuwien.ac.at,AT,2104,3431,,HTTP Error 403: Forbidden
+http://repository.pwr.edu.pl,PL,2112,3245,,HTTP Error 404: Not Found
+http://eprints.fcla.edu,us,3141,,1158,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://contentdm.lib.byu.edu,us,3142,,1164,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found"
+http://scholarship.utm.edu,us,3143,,1166,<urlopen error timed out>
+http://www.mexico.scielo.org,mx,3145,,1180,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.scielo.org.ve,ve,3147,,1187,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://mmdb.sissa.it,it,3149,,1192,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://servdoc.jp.cnrs.fr,fr,3150,,1197,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.cecm.sfu.ca,ca,3152,,1205,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://nsdl.sdsc.edu,us,3154,,1207,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bdtd.bczm.ufrn.br,br,3155,,1209,<urlopen error timed out>
+http://revcom.portcom.intercom.org.br,br,3156,,1212,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sprouts.aisnet.org,us,3162,,1230,<urlopen error timed out>
+http://bdjur.stj.gov.br,br,3164,,1238,<urlopen error timed out>
+http://temaria.net,es,3171,,1267,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found"
+http://www.tdr.cesca.es,es,3172,,1271,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.library.tohoku.ac.jp,jp,3182,,1303,<urlopen error timed out>
+http://ahousat.library.ubc.ca,ca,3187,,1318,<urlopen error timed out>
+http://digitool.library.colostate.edu,us,192,,272,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://content.denison.edu,US,206,,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dcollections.bc.edu,US,220,668,,<urlopen error timed out>
+,,231,,,unknown url type: ''
+http://difusion-oai.ulb.ac.be,BE,233,2101,,HTTP Error 403: Forbidden
+,GB,235,,,unknown url type: ''
+,GB,236,,,unknown url type: ''
+,,237,,,unknown url type: ''
+http://hikumano.hama-med.ac.jp,jp,1544,,3039,<urlopen error timed out>
+https://sistemas.uff.br,BR,1982,2120,,"<html><head>
+"
+http://reposcom.portcom.intercom.org.br,BR,1987,500,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repositorioseea.es,es,1993,,10226,<urlopen error [Errno 61] Connection refused>
+http://www.repositorio.una.ac.cr,CR,1995,,7486,<urlopen error _ssl.c:1029: The handshake operation timed out>
+http://repositorio.utp.edu.co,CO,1998,2144,,HTTP Error 404: No Encontrado
+http://ruc.udc.es,es,2001,,5022,<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1045)>
+http://eprints.natura.unsa.edu.ar,ar,2002,,7725,<urlopen error timed out>
+http://rpsico.mdp.edu.ar,AR,2006,2510,,<urlopen error timed out>
+http://repositorio.uned.ac.cr,CR,2010,1868,,<urlopen error [Errno 61] Connection refused>
+http://repositorio.utpl.edu.ec,EC,2012,1227,,<urlopen error timed out>
+http://repositorio.cientifica.edu.pe,PE,2014,3723,,HTTP Error 404: Not Found
+http://www.biblioteca.ueb.edu.ec,ec,2017,,2501,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://fhge.opus.hbz-nrw.de,de,3089,,981,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://papadocs-oai.dsi.uminho.pt,pt,3097,,1003,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://revista.grupointegrado.br,br,3102,,1009,<urlopen error timed out>
+http://repository.lib.polyu.edu.hk,hk,3105,,1019,<urlopen error timed out>
+http://contenidos.proyectoagrega.es,es,3106,,1028,timed out
+http://research2.csci.educ.ubc.ca,ca,3107,,1035,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://darwin.bth.rwth-aachen.de,de,3108,,1040,HTTP Error 403: Forbidden
+http://202.88.236.215,in,3111,,1054,<urlopen error timed out>
+http://etd.rau.ac.za,za,3112,,1056,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sala.clacso.org.ar,ar,3115,,1059,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oai.redalyc.uaemex.mx,mx,3116,,1060,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://reposcom.portcom.intercom.org.br,br,3118,,1065,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bjcu.uca.edu.ni,ni,3119,,1067,timed out
+http://repositorio.bib.upct.es,es,3121,,1073,<urlopen error timed out>
+http://bib1lp1.rz.tu-bs.de,de,3122,,1078,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repositorioaberto.univ-ab.pt,pt,3123,,1085,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.fct.unl.pt,pt,3126,,1095,<urlopen error timed out>
+http://www.rdn.ac.uk,gb,3128,,1109,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.ibict.br,br,3129,,1113,HTTP Error 403: Forbidden
+http://server01.bc.unicamp.br,br,3130,,1115,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.revista.grupointegrado.br,br,3131,,1116,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://diggy.ruc.dk,dk,3136,,1135,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.3322.org,cn,3137,,1141,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ladark.lib.utsa.edu,US,238,196,,<urlopen error timed out>
+http://ilithia.unicampus.it,IT,240,1999,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://fhdo.opus.hbz-nrw.de,de,241,,982,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://phy043.tours.inra.fr,fr,242,,50,<urlopen error timed out>
+http://193.204.12.15,IT,247,1818,,<urlopen error timed out>
+http://dl.nsf.ac.lk,LK,263,2219,,timed out
+http://drc.library.marietta.edu,US,264,1305,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://estia.hua.gr,GR,269,1386,,timed out
+http://publications.u-paris10.fr,FR,284,318,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repository.ksu.edu.sa,sa,1692,,3330,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://kurepo.clib.kindai.ac.jp,JP,1693,1470,,<urlopen error timed out>
+http://kitir.lib.kitami-it.ac.jp,jp,1697,,763,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dr.ihep.ac.cn,cn,1698,,4412,<urlopen error timed out>
+http://libcdm.ku.edu.tr,TR,1702,3076,,<urlopen error timed out>
+http://ir.kochi-u.ac.jp,JP,1707,1923,,<urlopen error timed out>
+http://zuse.zib.de,DE,1709,2604,,HTTP Error 500: Internal Server Error
+http://openknowledge.kotra.or.kr,KR,1712,3266,,timed out
+http://repository.krivet.re.kr,KR,1714,3133,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repository.kurume-u.ac.jp,JP,1722,3348,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://kgur.kwansei.ac.jp,jp,1723,,4561,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ds.lib.kyutech.ac.jp,jp,1725,,785,<urlopen error timed out>
+http://master.lareferencia.info,AR,1730,3056,,<urlopen error timed out>
+http://revcom2.portcom.intercom.org.br,br,2892,,257,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://biblio.critaoi.auf.org,fx,2895,,267,<urlopen error timed out>
+http://www.cybertesis.edu.pe,pe,2897,,277,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://cybertesis.upc.edu.pe,pe,2898,,278,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://202.141.12.109,in,2900,,289,<urlopen error timed out>
+http://www.dlnet.vt.edu,us,2906,,312,<urlopen error timed out>
+https://drum.umd.edu,us,2908,,318,<urlopen error timed out>
+http://digitalcommons.middlebury.edu,us,2910,,334,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://148.226.9.79,mx,2914,,356,<urlopen error timed out>
+http://dici.ibict.br,br,2916,,361,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://dlearn.arizona.edu,us,2917,,363,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://salamanca.khbo.be,be,2920,,374,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://elib.doshisha.ac.jp,jp,2922,,377,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.ipu.ernet.in,in,2923,,393,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.hh.se,se,2924,,394,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.nyu.edu,us,2925,,402,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.apu.ac.jp,jp,2927,,407,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.uah.es,es,2931,,435,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.law.duke.edu,us,2932,,448,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.tiedekirjasto.helsinki.fi,fi,2933,,454,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dyuthi.cusat.ac.in,in,2934,,455,HTTP Error 500: Internal Server Error
+http://e-ms.cilea.it,it,2937,,462,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://etext.library.adelaide.edu.au,au,2938,,471,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://library.eri.nau.edu,us,2939,,475,<urlopen error timed out>
+https://www.uhi.ac.uk/en/research-enterprise/resource/repository/,GB,4765,,,HTTP Error 404: Not Found
+https://www.bjbms.org/ojs/index.php/bjbms,,4794,,,HTTP Error 403: Forbidden
+http://rhinology.in,in,294,,6950,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://vtls.cyf-kr.edu.pl,PL,297,2047,,<urlopen error [Errno 61] Connection refused>
+http://www.ubrisa.ub.bw,BW,304,1626,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sysdoc.com.dtu.dk,dk,312,,1250,<urlopen error timed out>
+http://repository.uwa.edu.au,AU,313,2296,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://yorkspace.library.yorku.ca,CA,319,944,,The read operation timed out
+http://elibrary.kubg.edu.ua,ua,339,,6589,HTTP Error 403: Forbidden
+http://210.72.131.170,CN,1601,2316,,timed out
+http://159.226.64.105,cn,1602,,4374,<urlopen error timed out>
+http://dspace.dce.edu,in,1609,,3500,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.pku.edu.cn,cn,1611,,6745,<urlopen error timed out>
+http://159.226.240.226,cn,1612,,4383,<urlopen error timed out>
+http://210.77.90.120,cn,1614,,4377,<urlopen error timed out>
+http://ir.lib.tsinghua.edu.cn,CN,1618,2930,,<urlopen error timed out>
+http://ir.xjtu.edu.cn.jspui,CN,1619,3009,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://vslir.iimahd.ernet.in,IN,1625,3008,,<urlopen error timed out>
+http://archive.ism.lt,lt,1642,,7775,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.tstu.tver.ru,ru,3435,,4738,HTTP Error 404: Not Found
+https://wissen.h-da.de,de,3436,,4739,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ncralib1.ncra.tifr.res.in,,3439,,4770,<urlopen error timed out>
+http://eprints.ibu.edu.ba,ba,3444,,4859,HTTP Error 403: Forbidden
+http://www.iucaa.ernet.in,in,3447,,5028,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://pmb.cediasbibli.org,fr,3451,,5145,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://karn.lib.kagoshima-u.ac.jp,jp,3456,,5239,<urlopen error timed out>
+http://eprints.ampri.res.in,in,3458,,5366,<urlopen error timed out>
+http://digitalcommons.law.wustl.edu,us,3471,,5640,HTTP Error 403: Forbidden
+http://digitalcommons.plattsburgh.edu,us,3477,,5663,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ihi.eprints.org,tz,347,,5904,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bc.klf.uw.edu.pl,PL,350,1605,,Remote end closed connection without response
+http://doc.utwente.nl,NL,363,354,,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found"
+http://eprints.binus.ac.id,ID,368,2415,,<urlopen error timed out>
+http://repository.usp.ac.fj,FJ,373,2499,,timed out
+http://minority-health.pitt.edu,US,378,520,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.arums.ac.ir,IR,384,1692,,<urlopen error timed out>
+http://catedra.ruv.itesm.mx,mx,1266,,3657,<urlopen error timed out>
+http://difunde.alerta.cl,CL,1268,3043,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://digitalcase.case.edu,us,1274,,302,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://diglib.arums.ac.ir,IR,1291,2428,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dyuthi.cusat.ac.in,IN,1305,1768,,HTTP Error 500: Internal Server Error
+http://delta.cbr.edu.pl,PL,2126,2264,,<urlopen error timed out>
+http://repository.ruforum.org,UG,2127,2836,,HTTP Error 308: Permanent Redirect
+http://repo.lib.ryukoku.ac.jp,JP,2131,1977,,<urlopen error timed out>
+http://sucra.saitama-u.ac.jp,jp,2135,,1149,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sanockabibliotekacyfrowa.pl,PL,2137,2545,,<urlopen error timed out>
+http://science-attic.org,kr,2153,,1188,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.scielo.oces.mctes.pt,pt,2160,,1182,<urlopen error timed out>
+http://scielo.isciii.es,es,2161,,1185,HTTP Error 500: Internal Server Error
+http://contentpro.seals.ac.za,ZA,2165,2872,,<urlopen error timed out>
+http://serve.seigakuin-univ.ac.jp,JP,2167,1954,,timed out
+http://bdbogota.funandi.edu.co,co,3488,,6130,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://research.lppm-stmik.ibbi.ac.id,id,3499,,7269,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www6.ensp.fiocruz.br,br,3507,,6692,HTTP Error 500: Internal Server Error
+http://bd.camara.gov.br,,3509,,6841,<urlopen error timed out>
+http://repositori.unimilitar.edu.co,co,3510,,6846,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://uctscholar.uct.ac.za,za,3511,,6878,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bbyeprints.hacettepe.edu.tr,tr,3513,,6890,<urlopen error timed out>
+http://digitalcommons.fvsu.edu,us,3515,,6915,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.univcasa.ma,ma,3516,,6932,<urlopen error [Errno 61] Connection refused>
+http://repo.sau.sumy.ua,ua,3518,,6963,<urlopen error timed out>
+http://eprints.physik.tu-berlin.de,DE,388,1207,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.stoa.it,it,389,,513,<urlopen error timed out>
+http://cbdu.id.uw.edu.pl,PL,398,2238,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.ibb.waw.pl,PL,401,1725,,<urlopen error timed out>
+http://okcarib.net,JM,411,2451,,timed out
+http://eprints.usm.my,MY,423,1730,,timed out
+http://dspace.kpnu.edu.ua,UA,1402,3169,,HTTP Error 404: Not Found
+http://dspace.dmmi.edu.ua,ua,1413,,7962,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://nt-cmb.medun.acad.bg,BG,1424,2343,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://etd.ncsi.iisc.ernet.in,in,1427,,544,timed out
+http://ubm.opus.hbz-nrw.de,DE,1430,629,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://elpub.architexturez.net,,1433,,7063,HTTP Error 403: Forbidden
+http://elpub.scix.net,SI,1434,982,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.bicmku.in,IN,1439,1280,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://epublications.bond.edu.au,AU,1440,127,,HTTP Error 403: Forbidden
+http://eres.architexturez.net,,1443,,7062,HTTP Error 403: Forbidden
+http://dlibra.bg.uwm.edu.pl,PL,2271,2240,,<urlopen error timed out>
+http://dspace.ubu.es,ES,2272,1596,,<urlopen error timed out>
+http://cybertesis.urp.edu.pe,PE,2273,972,,timed out
+http://repository.udsm.ac.tz,TZ,2282,3480,,<urlopen error [Errno 61] Connection refused>
+http://repo.flib.u-fukui.ac.jp,JP,2285,1009,,<urlopen error timed out>
+http://diglib.uibk.ac.at,at,2287,,10211,HTTP Error 403: Forbidden
+https://findresearcher.sdu.dk,DK,2299,3062,,<urlopen error [Errno 61] Connection refused>
+http://oai-repositori.upf.edu,es,2314,,466,HTTP Error 400: Petición incorrecta
+http://detut.edu.ua,ua,3525,,7038,<urlopen error timed out>
+http://54.218.38.249,ng,3530,,7145,<urlopen error timed out>
+http://ir.nrf.ac.za,za,3546,,7574,<urlopen error timed out>
+http://polarinfo.kopri.re.kr,kr,3549,,7711,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repo.memoriademadrid.es,es,3552,,7734,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://180.211.164.156,bd,3554,,7836,<urlopen error timed out>
+http://dspace.oneu.edu.ua,ua,3556,,7878,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+oai:repozytorium.ukw.edu.pl,pl,3560,,7924,<urlopen error unknown url type: oai>
+http://dspace.bhos.edu.az,az,3565,,7973,timed out
+http://seek.jcsc.edu.jm,jm,3566,,7992,HTTP Error 403: Forbidden
+http://cur-ren.cjc.ac.jp,jp,439,,242,timed out
+http://eprints3.math.sci.hokudai.ac.jp,JP,444,173,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.eprints.iitm.ac.in,in,459,,885,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repo.isi-dps.ac.id,ID,461,1888,,HTTP Error 403: Forbidden
+http://openmed.nic.in,in,464,,969,<urlopen error timed out>
+http://eprints-scd-ulp.u-strasbg.fr,FR,466,10,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://e-prints.unifi.it,IT,469,310,,<urlopen error [Errno 51] Network is unreachable>
+http://oai.recercat.net,ES,471,272,,HTTP Error 403: Forbidden
+https://digitalunc.coalliance.org,US,1313,2082,,<urlopen error [Errno 61] Connection refused>
+http://repository.rsu.edu.sd,SD,1333,3441,,<urlopen error timed out>
+http://www.lib.unc.edu,us,1338,,372,HTTP Error 403: Bad Behavior
+https://doks.khlim.be,BE,1340,1185,,<urlopen error timed out>
+http://repository.dwc.doshisha.ac.jp,JP,1346,2132,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://14.139.60.216,IN,1348,1539,,<urlopen error timed out>
+http://210.212.198.149,IN,1349,2146,,<urlopen error [Errno 22] Invalid argument>
+http://dspace.bunka.ac.jp,JP,1352,1906,,HTTP Error 403: Forbidden
+http://repositorio.autonoma.edu.co,co,2378,,10970,HTTP Error 500: Internal Server Error
+http://lib.i-bteu.by,BY,2424,3815,,timed out
+http://www.jhsci.ba,BA,2429,,,HTTP Error 403: Forbidden
+http://umkeprints.umk.edu.my,my,2433,,5725,timed out
+http://jurnal.untidar.ac.id/index.php/transformatika,,4644,,,timed out
+https://www.icr.ac.uk/,,4652,,,HTTP Error 403: Forbidden
+http://www.ijre.org,,4662,,,HTTP Error 403: Forbidden
+http://acervo.ufvjm.edu.br,,4666,,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://journals.ansfoundation.org/,,4667,,,HTTP Error 403: Forbidden
+ttp://revistachasqui.org/index.php/chasqui,,4670,,,<urlopen error unknown url type: ttp>
+http://publicacoes.uor.ed.ao/index.php/sapientiae/index,,4671,,,timed out
+http://www.revista.vocesdelaeducacion.com.mx/index.php/voces,,4673,,,HTTP Error 406: Not Acceptable
+http://web2.rosario-conicet.gov.ar/ojs/index.php/AvancesCesor/index,,4674,,,timed out
+http://ojs.urbe.edu/index.php/telos/index,,4676,,,timed out
+http://cemi.socionet.ru,ru,488,,223,HTTP Error 404: Not Found
+http://repository.iadb.org,US,490,2738,,<urlopen error timed out>
+http://diggy.ruc.dk,DK,495,278,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ntnu.diva-portal.org,NO,498,537,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oai.dml.cz,CZ,507,2194,,HTTP Error 404: Not Found
+http://ir.ub.rug.nl,nl,508,,709,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.hil.unb.ca,CA,511,335,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.ru.tic.unam.mx,MX,513,2573,,HTTP Error 503: Service Temporarily Unavailable
+http://soar-ir.shinshu-u.ac.jp,jp,514,,1202,<urlopen error timed out>
+http://210.77.73.110,cn,524,,4376,<urlopen error timed out>
+http://ir.lib.ntnu.edu.tw,tw,526,,2858,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://digitool.fe.up.pt,pt,528,,1413,<urlopen error timed out>
+http://ir.nust.ac.zw,zw,1837,,4662,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.lib.oita-u.ac.jp,JP,1847,1056,,<urlopen error timed out>
+http://okina.univ-angers.fr,FR,1849,3475,,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found"
+http://acikerisim.bingol.edu.tr,tr,1851,,9311,<urlopen error [Errno 61] Connection refused>
+http://www2.mate.polimi.it,IT,1855,813,,<urlopen error timed out>
+http://dspace.gsom.pu.ru,ru,1860,,2755,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://opus.ipfw.edu,US,1869,2645,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oudl.osmania.ac.in,in,1873,,6868,<urlopen error timed out>
+http://bsbdok.digitale-sammlungen.de,DE,1874,2168,,HTTP Error 403: Forbidden
+https://ospace.scholarsportal.info,CA,1877,834,,<urlopen error timed out>
+http://acikerisim.pau.edu.tr,TR,1879,3566,,timed out
+http://oai.mdx.cat,es,3041,,839,HTTP Error 400: Bad Request
+http://dspace.mclibrary.duke.edu,us,3043,,844,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://etd.lib.metu.edu.tr,tr,3046,,850,HTTP Error 403: Forbidden
+http://ir.lib.muroran-it.ac.jp,jp,3050,,865,<urlopen error timed out>
+http://akf.nul.nagoya-u.ac.jp,jp,3052,,871,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://genesis2.jpl.nasa.gov,us,3055,,878,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://trs.nis.nasa.gov,us,3056,,879,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.ncaor.org,in,3058,,882,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.may.ie,ie,3063,,906,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.nmt.edu,us,3069,,923,<urlopen error timed out>
+http://sinin.nsc.ru,ru,3074,,943,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.oakland.edu,us,3075,,944,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://worlddmc.ohiolink.edu,us,3078,,951,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.lsu.ac.zw,,3763,,11508,<urlopen error timed out>
+http://bocospace.bocodol.ac.bw,bw,3773,,11620,<urlopen error [Errno 61] Connection refused>
+http://digilib.sadra.ac.id,id,3775,,11689,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://umt-ir.umt.edu.my,my,3779,,11790,HTTP Error 404: 
+http://dspace.univ-chlef.dz,dz,3789,,12026,<urlopen error timed out>
+http://194.44.12.92,ua,3795,,12227,<urlopen error [Errno 61] Connection refused>
+http://oai.tudelft.nl,NL,531,571,,HTTP Error 403: Forbidden
+http://cemadoc.irstea.fr,FR,533,1587,,The read operation timed out
+http://eprints.ukm.my,MY,536,1194,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bibliographie.ub.rub.de,DE,544,2705,,HTTP Error 502: Bad Gateway
+http://dspace.lib.kanazawa-u.ac.jp,jp,550,,749,<urlopen error timed out>
+https://repositorio.ufsc.br,br,551,,4695,The read operation timed out
+http://ir.twmu.ac.jp,jp,553,,4800,<urlopen error timed out>
+http://www.saber.ula.ve,ve,556,,1147,<urlopen error timed out>
+http://ccur.lib.ccu.edu.tw,tw,567,,11100,timed out
+http://cumincad.architexturez.net,AT,568,2740,,HTTP Error 403: Forbidden
+http://ludita.uni-nke.hu,HU,1742,3220,,HTTP Error 404: Not Found
+http://www.doria.fi,FI,1743,3532,,timed out
+http://dspace.mdi.ac.in,in,1747,,690,<urlopen error timed out>
+http://repositorium.uni-muenster.de,DE,1754,517,,<urlopen error timed out>
+http://web2.bium.univ-paris5.fr,FR,1755,1005,,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+FOUND"
+http://bibmdc2.ulpgc.es,es,1762,,5030,<urlopen error [Errno 61] Connection refused>
+http://mersin.mitosweb.com,tr,1763,,3938,HTTP Error 403: Forbidden
+http://openaccess.mevlana.edu.tr,TR,1765,3571,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://210.60.94.92,TW,1769,1835,,<urlopen error timed out>
+http://mbc.fundacjamorska.org,PL,1777,2160,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.muhas.ac.tz,tz,1781,,5842,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://libir.mukogawa-u.ac.jp,jp,1782,,5037,<urlopen error timed out>
+http://muroran-it.repo.nii.ac.jp,jp,1785,,11023,The read operation timed out
+http://www.lasallistavirtual.edu.co,co,2844,,148,HTTP Error 403: Forbidden
+http://ubopenac.ub.uni-bielefeld.de,de,2846,,152,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://clsdemo.library.caltech.edu,us,2858,,187,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.cartapacio.org.ar,ar,2879,,216,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.dspace.humanities.org.ua,ua,2883,,230,HTTP Error 403: Forbidden
+http://zeus.iica.ac.cr,co,2884,,232,HTTP Error 403: Forbidden
+http://preprint.chemweb.com,gb,2886,,235,<urlopen error timed out>
+http://www.compscipreprints.com,com,2887,,236,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://cogprints.ecs.soton.ac.uk,gb,2890,,251,<urlopen error [Errno 61] Connection refused>
+http://eprints.csse.uom.gr,gr,2891,,254,<urlopen error timed out>
+http://repositorio.ufsc.br,,4340,2373,,The read operation timed out
+http://repository.st3telkom.ac.id,,4435,3938,,<urlopen error timed out>
+http://repository.stiesia.ac.id,,4514,3933,,HTTP Error 403: Forbidden
+https://pure.rug.nl,,4580,189,,HTTP Error 403: Forbidden
+http://eprints.muq.ac.ir,ir,4628,,12936,<urlopen error timed out>
+http://dspace.lib.niigata-u.ac.jp,jp,579,,927,HTTP Error 404: Not Found
+http://bc.mbpradom.pl,PL,584,1613,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bdjur.stj.jus.br,BR,598,23,,HTTP Error 403: Forbidden
+http://doks.katho.be,be,616,,373,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://148.202.105.131,MX,1209,2257,,timed out
+http://opac.bliss.chubu.ac.jp,JP,1217,1929,,timed out
+http://ir.hwai.edu.tw,TW,1218,1842,,<urlopen error timed out>
+http://ir.lib.csmu.edu.tw,TW,1219,1854,,<urlopen error [Errno 61] Connection refused>
+http://cri.nsf.ac.lk,LK,1223,3406,,timed out
+http://crf.flib.u-fukui.ac.jp,jp,1232,,253,<urlopen error timed out>
+http://ri.conicet.gov.ar,ar,1235,,10729,The read operation timed out
+http://corpus.hist-lab.ru,ru,1242,,10438,<urlopen error timed out>
+http://oai.crs4.it,IT,1245,3734,,HTTP Error 503: Service Unavailable
+http://cybertesis.ucv.cl,CL,1253,839,,<urlopen error timed out>
+http://nukoaiclone.nuk.uni-lj.si,SI,2436,3825,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repository.ubharajaya.ac.id,ID,2437,3826,,HTTP Error 403: Forbidden
+http://lawspace.law.uct.ac.za,za,3189,,1321,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bioivlab.ils.unc.edu,us,3192,,1331,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://rice.iuav.it,it,3193,,1338,HTTP Error 403: Forbidden
+http://tesis.epg.uagrm.edu.bo,bo,3194,,1339,<urlopen error timed out>
+http://biblioteca.unisabana.edu.co,co,3195,,1342,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.cybertesis.umsa.bo,bo,3196,,1344,<urlopen error [Errno 61] Connection refused>
+http://bcasm.unp.edu.pe,pe,3198,,1348,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.ub.rug.nl,nl,3203,,1384,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.unav.es,es,3205,,1399,HTTP Error 500: Internal Server Error
+http://etd.ils.unc.edu,us,3207,,1403,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprint.uq.edu.au,au,3212,,1416,HTTP Error 404: Not Found
+http://oai.sunsite.utk.edu,us,3217,,1434,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.utsc.utoronto.ca,ca,3218,,1437,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://universitypapers.com,,3221,,1447,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://amsmisc.cib.unibo.it,it,3223,,1450,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ub-www2.uni-duisburg.de,de,3224,,1452,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://e-archive.vanderbilt.edu,us,3233,,1477,<urlopen error timed out>
+http://vifaphys.tib.uni-hannover.de,de,3235,,1484,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ndltdpapers.dlib.vt.edu,us,3236,,1487,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://revijaonkologija.si/Onkologija,,4818,,,HTTP Error 502: Bad Gateway
+http://repository.urosario.edu.co,co,633,,483,Remote end closed connection without response
+http://repository.tama.ac.jp,JP,637,2772,,<urlopen error timed out>
+http://dadun.unav.edu,ES,639,,,HTTP Error 500: Internal Server Error
+https://eprints.hope.ac.uk,GB,650,,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://akademikarsiv.cumhuriyet.edu.tr,TR,669,3104,,<urlopen error timed out>
+http://hera.helsebiblioteket.no,NO,1553,1214,,<urlopen error timed out>
+http://repository.ul.hirosaki-u.ac.jp,JP,1557,950,,<urlopen error timed out>
+http://htpprints.yorku.ca,ca,1560,,629,<urlopen error timed out>
+http://197.156.70.106,ET,1561,3417,,<urlopen error timed out>
+http://arxiv.iacs.res.in,IN,1575,2899,,<urlopen error [Errno 61] Connection refused>
+https://213.154.74.164,SN,1581,2727,,HTTP Error 403: Forbidden
+http://www.revencyt.ula.ve,VE,1588,878,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://iyokan.lib.ehime-u.ac.jp,jp,1595,,4140,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dl.acs.org.au,au,2810,,28,HTTP Error 403: Forbidden
+http://strip1.oit.umn.edu,us,2812,,34,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.agentlink.org,gb,2813,,35,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://agspace.nal.usda.gov,us,2814,,36,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.msh-alpes.prd.fr,fr,2815,,39,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://203.129.216.166,in,2816,,43,timed out
+http://rabida.uhu.es,es,2826,,81,HTTP Error 404: No Encontrado
+http://acikarsiv.atauni.edu.tr,tr,2828,,95,timed out
+http://adt.caul.edu.au,au,2829,,99,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://barrel.ih.otaru-uc.ac.jp,jp,2832,,110,<urlopen error timed out>
+http://drc.library.bgsu.edu,us,2834,,120,<urlopen error timed out>
+http://bohr.cuao.edu.co,co,2835,,123,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oai.ibict.br,br,2837,,129,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ebipol.p.lodz.pl,pl,2842,,140,<urlopen error timed out>
+http://arcticcouncil.longsight.com,NO,682,3345,,<urlopen error timed out>
+http://www3.bth.se,SE,698,135,,[Errno 54] Connection reset by peer
+http://repository.nauss.edu.sa,sa,707,,10659,HTTP Error 500: Internal Server Error
+http://repository.ipb.ac.id,id,723,,3698,<urlopen error [Errno 61] Connection refused>
+http://repositorio.educacion.gov.ar,ar,724,,6019,timed out
+http://eureka.lib.teithe.gr,gr,1453,,548,<urlopen error timed out>
+http://dspace.ewubd.edu,bd,1456,,8997,timed out
+http://www4.fao.org,IT,1459,1213,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://services.diva-portal.org,SE,1460,1740,,HTTP Error 403: Forbidden
+http://repository.fulokoja.edu.ng,ng,1461,,11513,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.fikt.edu.mk,MK,1465,3717,,<urlopen error [Errno 61] Connection refused>
+http://dlib.foi.hr,HR,1469,1670,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.fortlewis.edu,US,1473,2502,,<urlopen error timed out>
+http://coleccionfff.unav.es,,1475,,3106,HTTP Error 500: Internal Server Error
+http://glim-re.glim.gakushuin.ac.jp,JP,1482,2454,,<urlopen error timed out>
+http://oai.bnf.fr,fr,1484,,2769,HTTP Error 404: Introuvable
+http://savoirspartages.mines-telecom.fr,FR,1492,994,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.glopad.org,US,1497,626,,HTTP Error 403: Forbidden
+http://arrow.uws.edu.au,AU,2325,1313,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://vtechworksdev.lib.vt.edu,US,2340,2485,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.lib.wtuc.edu.tw,TW,2347,2005,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.welingkar.org,IN,2348,3743,,<urlopen error timed out>
+http://dspace.yalova.edu.tr,TR,2355,3068,,timed out
+http://kamome.lib.ynu.ac.jp,JP,2356,965,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repo.lib.yamagata-u.ac.jp,JP,2358,1038,,<urlopen error timed out>
+http://200.201.9.45,br,3337,,3707,<urlopen error timed out>
+http://evrica.org.ua,ua,3346,,3775,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://elibrary.ub.ac.id,id,3353,,3913,<urlopen error timed out>
+http://deu.mitosweb.com,tr,3354,,3915,HTTP Error 403: Forbidden
+http://acikarsiv.atauni.edu.tr,tr,3356,,3918,timed out
+http://acikarsiv.hacettepe.edu.tr,tr,3357,,3919,<urlopen error timed out>
+http://bahcesehir.mitosweb.com,tr,3358,,3921,HTTP Error 403: Forbidden
+http://yasar.mitosweb.com,tr,3359,,3922,HTTP Error 403: Forbidden
+http://acikarsiv.mu.edu.tr,tr,3360,,3940,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.mitosweb.com,tr,3362,,3942,HTTP Error 403: Forbidden
+http://repository.mb.ipb.ac.id,id,3367,,4075,HTTP Error 500: Internal Server Error
+http://159.226.121.23,cn,3380,,4378,<urlopen error timed out>
+http://bibnum-stendhal.upmf-grenoble.fr,,733,,6469,HTTP Error 404: Not Found
+http://dune.univ-angers.fr,fr,742,,6196,"HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
+The last 30x error message was:
+Found"
+http://hss-opus.ub.ruhr-uni-bochum.de,DE,752,3579,,<urlopen error timed out>
+http://rabida.uhu.es,ES,1114,1388,,HTTP Error 404: No Encontrado
+http://bibliotekaormianska.pl,PL,1117,2051,,HTTP Error 404: Not Found
+http://dspace.bhos.edu.az,AZ,1134,2996,,timed out
+http://barrel.repo.nii.ac.jp,JP,1136,1088,,The read operation timed out
+http://digital.bl.fcen.uba.ar,ar,1149,,3059,The read operation timed out
+http://dspace.uah.es,ES,1156,966,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repository.ush.sd,SD,2176,3628,,<urlopen error [Errno 61] Connection refused>
+http://repository.shiga-med.ac.jp,JP,2177,1920,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sada-data.nrf.ac.za,za,2191,,6452,HTTP Error 500: Internal Server Error
+http://ir.lib.stut.edu.tw,TW,2194,1832,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://doc.sspal.it,it,2196,,1232,<urlopen error timed out>
+http://arch.slcn.ac.jp,JP,2198,1045,,HTTP Error 403: Forbidden
+http://eprints.stainsalatiga.ac.id,id,2199,,6241,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://images-oai.swinburne.edu.au,au,2209,,1246,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://app.gyor.hunteka.sys.ikron.hu,HU,2210,3049,,<urlopen error [Errno 61] Connection refused>
+http://ir.tari.gov.tw,TW,2214,1987,,<urlopen error [Errno 61] Connection refused>
+http://159.226.119.211,cn,3383,,4389,<urlopen error timed out>
+http://ir.scbg.ac.cn,cn,3385,,4391,<urlopen error timed out>
+http://159.226.23.25,cn,3386,,4392,<urlopen error timed out>
+http://159.226.149.42,cn,3387,,4394,<urlopen error timed out>
+http://ir.siom.ac.cn,cn,3392,,4399,timed out
+http://202.127.1.142,cn,3393,,4400,<urlopen error [Errno 61] Connection refused>
+http://119.78.226.72,cn,3394,,4401,<urlopen error [Errno 61] Connection refused>
+http://202.127.23.61,cn,3395,,4402,<urlopen error timed out>
+http://124.16.144.217,cn,3398,,4405,<urlopen error timed out>
+http://dspace.khadi.kharkov.ua,ua,3399,,4406,HTTP Error 404: Not Found
+http://ir.irsa.ac.cn,cn,3400,,4407,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://159.226.108.154,cn,3401,,4408,<urlopen error timed out>
+http://124.16.167.195,cn,3403,,4411,<urlopen error timed out>
+http://ir.ihb.ac.cn,cn,3404,,4413,<urlopen error [Errno 61] Connection refused>
+http://ir.ciac.jl.cn,,3405,,4414,<urlopen error [Errno 61] Connection refused>
+http://159.226.64.45,cn,3407,,4418,<urlopen error timed out>
+http://210.77.65.12,cn,3408,,4419,<urlopen error timed out>
+http://210.72.14.139,cn,3409,,4420,<urlopen error timed out>
+http://210.72.8.4,cn,3410,,4421,<urlopen error [Errno 61] Connection refused>
+http://159.226.59.140,cn,3411,,4422,<urlopen error timed out>
+http://159.226.153.81,cn,3412,,4424,<urlopen error timed out>
+http://124.16.247.212,cn,3413,,4432,<urlopen error [Errno 61] Connection refused>
+http://www.bibliotecavirtual.asturias.es,es,3415,,4438,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.ukrfa.kharkov.ua,ua,3426,,4459,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://library.elibrary-mohp.gov.np,np,3427,,4543,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://library.nnl.gov.np,np,3428,,4544,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://library.nams.org.np,np,3429,,4551,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.fmu.ac.jp,jp,774,,2806,The read operation timed out
+http://idr.iain-antasari.ac.id,id,798,,10037,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.uinsby.ac.id,ID,800,2023,,<urlopen error timed out>
+http://repository.marprolife.org,,815,,6313,<urlopen error timed out>
+http://repository.iucaa.in,IN,1354,2444,,HTTP Error 403: Forbidden
+http://nifs-repository.nifs.ac.jp,JP,1356,1941,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.onu.edu.ua,ua,1357,,3225,<urlopen error timed out>
+http://dspace.lib.uoguelph.ca,CA,1360,453,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.vidyanidhi.org.in,IN,1362,1084,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.wul.waseda.ac.jp,jp,1363,,1498,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://openaccess.artvin.edu.tr,TR,1368,3228,,<urlopen error [Errno 61] Connection refused>
+http://openaccess.hku.edu.tr,TR,1371,3550,,<urlopen error timed out>
+http://openaccess.izu.edu.tr,TR,1373,3195,,timed out
+http://acikerisim.khas.edu.tr,tr,1374,,8672,<urlopen error timed out>
+http://acikerisim.kirklareli.edu.tr,TR,1375,3120,,<urlopen error [Errno 61] Connection refused>
+http://dspace.dsto.defence.gov.au,au,1378,,443,<urlopen error timed out>
+http://acikerisim.duzce.edu.tr,TR,1383,3147,,<urlopen error timed out>
+http://186.113.12.136,CO,1384,2768,,<urlopen error timed out>
+http://e-repository.tecminho.uminho.pt,PT,1385,1166,,<urlopen error timed out>
+http://earsiv.yasar.edu.tr,TR,1395,3065,,<urlopen error timed out>
+http://repository.upatras.gr,GR,1399,946,,<urlopen error timed out>
+http://www.digital.lib.esn.ac.lk,,2664,3882,,<urlopen error [Errno 61] Connection refused>
+http://ir.msu.ac.zw,,2712,3186,,<urlopen error [Errno 61] Connection refused>
+https://repozitorij.foozos.hr,,2744,3911,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://digipool.bib-bvb.de,,2780,3923,,HTTP Error 403: Forbidden
+http://libprint.trisakti.ac.id,id,2790,,12913,<urlopen error timed out>
+http://repository.expertjournals.com,ro,3717,,10626,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://hulirs.haramaya.edu.et,et,3729,,10985,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://atmiya.eprints.org,in,3730,,11051,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.ciitlahore.edu.pk,pk,3731,,11053,<urlopen error timed out>
+http://repository.wnust.edu.sd,sd,3733,,11119,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repository.warmadewa.ac.id,id,3734,,11120,HTTP Error 500: Internal Server Error
+http://Repository.ush.sd,sd,3741,,11234,<urlopen error [Errno 61] Connection refused>
+http://zaguan.unizar.es(oai2d,es,3756,,11445,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.kobson.nb.rs,RS,820,2581,,<urlopen error timed out>
+http://researchdatabase.ac.zw,ZW,822,,9705,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+https://oda.hio.no,NO,829,1848,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ediblio.unsa.edu.ar,ar,859,,150,<urlopen error timed out>
+http://acikerisim.istanbulbilim.edu.tr,TR,1646,3326,,<urlopen error timed out>
+http://archives.ece.iastate.edu,US,1649,505,,<urlopen error timed out>
+http://ir.iwate-u.ac.jp,jp,1653,,724,<urlopen error timed out>
+http://iroha.scitech.lib.keio.ac.jp,JP,1656,1043,,<urlopen error timed out>
+http://eprints.jiia.it,IT,1662,508,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://epub.jku.at,AT,1663,3361,,HTTP Error 403: Forbidden
+http://repository.lib.juen.ac.jp,JP,1664,1903,,<urlopen error timed out>
+http://karn.lib.kagoshima-u.ac.jp,JP,1668,2482,,<urlopen error timed out>
+http://library.kanto-gakuin.ac.jp,JP,1671,1917,,<urlopen error timed out>
+https://dspace.kauko.lt,lt,1673,,2272,<urlopen error timed out>
+http://archives.kdischool.ac.kr,KR,1679,3115,,The read operation timed out
+http://ekhsuir.kspu.edu,ua,1688,,9161,timed out
+http://kkuir.kku.ac.th,TH,1689,1877,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.hrz.uni-dortmund.de,de,2942,,490,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www3.bth.se,se,2944,,495,[Errno 54] Connection reset by peer
+http://patriot.lib.byu.edu,us,2945,,498,<urlopen error timed out>
+http://www.ubka.uni-karlsruhe.de,de,2947,,503,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://sohrab.eiah.org,ir,2948,,509,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.iimk.ac.in,in,2949,,515,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.bicmku.in,in,2950,,522,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://publishing.eur.nl,nl,2951,,527,HTTP Error 404: Not Found
+http://195.251.30.202,gr,2953,,538,timed out
+http://143.106.58.55,br,2954,,540,<urlopen error timed out>
+http://etd-submit.etsu.edu,us,2956,,542,<urlopen error timed out>
+http://etd.lib.fsu.edu,us,2960,,559,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://geoleoedocs.sub.uni-goettingen.de,de,2961,,569,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://etd-gw.wrlc.org,us,2962,,572,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://etd.gatech.edu,us,2963,,574,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://zitmac05.gkss.de,de,2965,,579,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://gbspapers.library.emory.edu,us,2969,,591,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://hofprints.hofstra.edu,us,2975,,634,<urlopen error timed out>
+http://eprints.math.sci.hokudai.ac.jp,jp,2976,,636,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.iiita.ac.in,in,2982,,660,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.lib.iup.edu,us,2984,,664,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.it.ss.titech.ac.jp,jp,2986,,666,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://revcom2.portcom.intercom.org.br,br,2987,,669,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://doc-iep.univ-lyon2.fr,fr,2988,,671,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www.ifeanet.org,pe,2989,,673,HTTP Error 403: Forbidden
+http://acikerisim.mu.edu.tr,tr,3622,,8488,<urlopen error timed out>
+http://181.118.146.4,co,3627,,8676,<urlopen error timed out>
+http://www.piuraheraldo.net,pe,3651,,9312,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repositori.ikippgribali.ac.id,,3652,,9319,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://erep.unisza.edu.my,my,3653,,9334,<urlopen error [Errno 51] Network is unreachable>
+https://casere3.dspacedirect.org,us,3654,,9414,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprint.insa-toulouse.fr,FR,877,2071,,<urlopen error timed out>
+http://eprints.sdu.edu.tr,tr,882,,2955,[Errno 54] Connection reset by peer
+http://eprints.walisongo.ac.id,id,898,,7415,timed out
+http://ngu.repo.nii.ac.jp,JP,1789,3337,,The read operation timed out
+http://repo.lib.nitech.ac.jp,JP,1790,1867,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://ir.nul.nagoya-u.ac.jp,JP,1791,523,,<urlopen error timed out>
+http://near.nara-edu.ac.jp,JP,1795,921,,<urlopen error timed out>
+http://140.130.170.28,TW,1798,1825,,<urlopen error timed out>
+http://www.needs.org,US,1801,827,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://tair.niu.edu.tw,tw,1802,,2850,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repo.lib.nifs-k.ac.jp,JP,1803,1447,,timed out
+http://ir.minpaku.ac.jp,JP,1806,1983,,<urlopen error timed out>
+http://irs.lib.ksu.edu.tw,TW,1808,1988,,<urlopen error timed out>
+http://repository.tml.nul.ls,LS,1815,2825,,<urlopen error [Errno 51] Network is unreachable>
+http://nevsehir.mitosweb.com,TR,1820,3070,,HTTP Error 403: Forbidden
+http://acikerisim.nigde.edu.tr,TR,1822,3082,,<urlopen error [Errno 61] Connection refused>
+http://repository.niigata-cn.ac.jp,JP,1823,2103,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://reports.nlr.nl,nl,1830,,9909,HTTP Error 403: Forbidden
+http://nmrlsdli.cdmhost.com,US,1833,829,,<urlopen error timed out>
+http://wisdomarchive.wisdom.weizmann.ac.il,il,3239,,1509,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://etdindividuals.dlib.vt.edu,us,3241,,1513,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://wildrep.socpvs.org,pt,3244,,1527,<urlopen error timed out>
+http://ejournal.windeng.net,dk,3246,,1530,HTTP Error 403: Forbidden
+http://core.libraries.wright.edu,edu,3248,,1534,<urlopen error timed out>
+http://ymtdl.med.yale.edu,us,3249,,2452,<urlopen error timed out>
+http://n125.arts.yorku.ca,ca,3250,,1542,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://vivliothmmy.ee.auth.gr,gr,3251,,1553,<urlopen error timed out>
+http://dspace.nlc.gov.cn,cn,3254,,1559,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://lib.chna.edu.tw,tw,3256,,2284,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://tesis.epg.uagrm.edu.bo,bo,3259,,2375,<urlopen error timed out>
+http://www.researchrepository.uhi.ac.uk,gb,3260,,2454,<urlopen error timed out>
+http://digitalrepository.e-medicinafetal.org,co,3262,,2457,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://digitalcommons.library.unlv.edu,us,3263,,2484,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://tesis.ula.ve,ve,3264,,2512,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://134.129.115.42,us,3271,,2581,<urlopen error timed out>
+http://eprints.hkbu.edu.hk,,3273,,2600,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://www3.bth.se,se,3275,,2643,[Errno 54] Connection reset by peer
+http://repository.equnet.info,it,3279,,2743,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://220.227.138.214,in,3282,,2851,<urlopen error timed out>
+http://digitool.unilinc.edu.au,AU,918,815,,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dukespace.lib.duke.edu,us,934,,450,The read operation timed out
+http://earsiv.sehir.edu.tr,TR,947,3031,,timed out
+https://fedora.phaidra.univie.ac.at,at,950,,6234,HTTP Error 403: Forbidden
+http://eprints.isofts.kiev.ua,ua,953,,718,timed out
+http://oai.elib.bsu.by,BY,958,1594,,HTTP Error 400: Bad Request
+http://server15795.contentdm.oclc.org,EG,1935,2707,,HTTP Error 401: Unauthorized
+http://oai.redalyc.org,MX,1941,1091,,The read operation timed out
+http://renati.sunedu.gob.pe,PE,1943,3692,,timed out
+http://192.188.11.11,BR,1978,1932,,<urlopen error [Errno 61] Connection refused>
+http://eprints.abuad.edu.ng,NG,2506,3827,,HTTP Error 500: Internal Server Error
+http://scholar.dgist.ac.kr,KR,2509,3836,,timed out
+http://kumel.medlib.dsmc.or.kr,KR,2519,3837,,timed out
+http://repositorio.lnec.pt,PT,2524,3842,,<urlopen error timed out>
+http://tk.kutuphaneci.org.tr,tr,3288,,2916,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://cachescan.bcub.ro,ro,3295,,3097,HTTP Error 403: Forbidden
+http://repository.ri.jica.go.jp,jp,3297,,3102,<urlopen error timed out>
+http://nchuir.lib.nchu.edu.tw,tw,3300,,3163,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://open-arhive.kture.kharkov.ua,ua,3301,,3167,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://bibliotecadigital.funandi.edu.co,co,3304,,7984,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://arca.icict.fiocruz.br,br,3305,,3230,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://quantropy.org,gb,3308,,3241,timed out
+http://open-archive.kture.kharkov.ua,ua,3315,,3364,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://eprints.sunan-ampel.ac.id,id,3320,,3429,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://repositorio1.eoi.es,es,3324,,3539,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://archives.webmedcentral.com,gb,3325,,3550,<urlopen error timed out>
+http://dspace.academy.sumy.ua,ua,3326,,3567,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://dspace.psnz.umt.edu.my,,3329,,3623,<urlopen error [Errno 61] Connection refused>
+http://cu.mitosweb.com,tr,3330,,3629,HTTP Error 403: Forbidden
+http://cybertesis.usmp.edu.pe,pe,3331,,3634,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+http://oar.mariine.ie,ie,3333,,3676,"<urlopen error [Errno 8] nodename nor servname provided, or not known>"
