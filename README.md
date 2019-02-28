@@ -17,12 +17,15 @@ like this (without the header):
 | http://eprints.aktors.org       | GB           | 4       | 1            | 31      |
 | http://repository.alt.ac.uk     | GB           | 5       |              | 961     |
 
+There's an [example input file](example_input.csv) you can use to test the app.
+
 Afterwards, run:
 
 1. ``pip install --upgrade pip && pip install -r requirements.txt``
 2. ``mkdir results && mkdir repo_pages``
 3. ``python reposwdiscovery.py /path/to/your/input_file.csv 0``
+   * Using the example input provided in this repository: ``python reposwdiscovery.py example_input.csv 0``
 4. ``cat results/results-Thread-* >> results-$(date +"%d%m%y").csv``
 5. ``cat results/errors-Thread-* >> errors-$(date +"%d%m%y").csv``
 
-This will produce two CSV files with results, one containing suffesfully checked repositories and the other containing unsuccessfully processed repositories.
+This will produce two CSV files with results, one containing successfully checked repositories and the other containing unsuccessfully processed repositories.
